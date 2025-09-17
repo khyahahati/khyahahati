@@ -59,3 +59,25 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
+
+---
+
+<h3 align="left">Featured Projects:</h3>
+
+#### Backend & Cloud
+* **[API Gateway](https://github.com/khyahahati/api-gateway)** 
+  * Engineered a lightweight API Gateway using `FastAPI` to route requests across backend microservices, abstracting internal details.
+  * Integrated **JWT-based authentication** and **rate limiting** to secure endpoints and prevent abuse.
+  * Implemented structured logging and exposed performance metrics via `Prometheus` for observability and monitoring.
+
+#### Full-Stack & Data Applications
+* **[DigitECG](https://github.com/khyahahati/digit-ecg)** 
+  * Designed an automated pipeline for digitizing paper ECGs using `Python`, with `OpenCV` for image processing and `NumPy`/`Pandas` for signal preprocessing.
+  * Developed an API using `FastAPI` and algorithms to detect key waveform peaks, achieving **95% accuracy** on annotated test sets.
+  * Built a `React`-based web interface for seamless ECG upload and interactive visualization.
+
+#### Data Science & AI
+* **[Crop Watch](https://github.com/khyahahati/Crop_Watch)** 
+  * Designed a **CNN-based model** in `Python`/`TensorFlow` for early plant disease detection, achieving **97% accuracy** on over 51,000 images.
+  * Optimized model training using `Adam optimizer` with data augmentation, improving efficiency by **15%**.
+  * Evaluated generalization with a structured test set and `Softmax` for interpretable outputs.
