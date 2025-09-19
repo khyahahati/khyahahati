@@ -1,7 +1,7 @@
 <h1 align="center">Khyati Tiwari</h1>
 <h3 align="center">CSE undergrad | VITB '26 | Full Stack Development | Machine Learning</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/khyati-tiwari" target="blank">LinkedIn</a> • 
+  <a href= "https://www.linkedin.com/in/khyatitiwari/" target="blank">LinkedIn</a> • 
   <a href="https://www.leetcode.com/khyahahati" target="blank">LeetCode</a> • 
   <a href="mailto:khyati.tiwari.2003@gmail.com">Email</a>
 </p>
